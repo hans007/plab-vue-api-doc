@@ -1,0 +1,15 @@
+{
+    "title" : "课程产品研发管理系统 - API接口说明",
+    "author" : "研究员-陶峙巍",
+    "description" : "规范API设计",
+    "language" : "zh-hans",
+    "links" : {
+        "gitbook" : false,
+        "sidebar" : {
+            "IT黑马" : "http://www.itheima.com/"
+            }
+    },
+    "plugins": [
+        "-sharing"
+    ]
+}
