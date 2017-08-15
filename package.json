@@ -1,0 +1,20 @@
+{
+  "name": "plab-api-doc",
+  "version": "1.0.0",
+  "description": "北研究院 - 课程产品研发管理系统 - API接口说明",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build --gitbook=2.6.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hans007@github.com/hans007/plab-vue-api-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hans007/plab-vue-api-doc/issues"
+  },
+  "homepage": "https://github.com/hans007/plab-vue-api-doc#readme"
+}
