@@ -46,20 +46,10 @@
 - 新增 `包含新模块 has_course_new_module`
 - 新增 `新模块 course_new_modules`
 - 新增 `质检验收人 qc_manager_id`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 新增 `驳回说明 reject_description`
+- 新增 `项目实际开始时间 actual_begin_date`
+- 新增 `项目实际结束时间 actual_end_date`
+- 新增 `项目总系数 project_rates`
 
 
 
