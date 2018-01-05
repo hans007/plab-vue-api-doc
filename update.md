@@ -33,5 +33,33 @@
 
 ## 2. 项目
 
+### 2.1 新增 - 常量定义 - 项目业务线
+
+### 2.2 更新 - 常量定义 - 项目状态
+
+同计划状态
+
+### 2.3 更新 - 项目
+
+- 作废 `post_type`
+- 新增 `项目业务线id business_type_id`
+- 新增 `包含新模块 has_course_new_module`
+- 新增 `新模块 course_new_modules`
+- 新增 `质检验收人 qc_manager_id`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
