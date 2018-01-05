@@ -51,5 +51,6 @@
 - 新增 `项目实际结束时间 actual_end_date`
 - 新增 `项目总系数 project_rates`
 
+### 2.4 新增 - 部门学科
 
 
