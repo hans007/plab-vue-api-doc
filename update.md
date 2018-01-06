@@ -51,6 +51,20 @@
 - 新增 `项目实际结束时间 actual_end_date`
 - 新增 `项目总系数 project_rates`
 
-### 2.4 新增 - 部门学科
+### 2.4 新增 - 基础数据 - 部门学科
 
+### 2.5 新增 - 项目 - 项目信息统计
+
+## 3. 任务
+
+### 3.1 更新 - 任务 - 任务列表
+
+- 新增 `实际开始 actual_begin_date`
+- 新增 `实际结束 actual_end_date`
+- 新增 `预估结果系数 estimate_result_weight`
+- 新增 `实际结果系数 actual_result_weight`
+
+### 3.2 更新 - 任务 - 任务完成 | 任务详情
+
+- 新增 `差异说明 results.difference_desc`
 
